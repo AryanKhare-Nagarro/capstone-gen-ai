@@ -1,0 +1,15 @@
+langchain
+langgraph
+langchain-groq
+langchain-community
+pymupdf
+pymupdf4llm
+langchain-text-splitters
+tqdm
+boto3
+chromadb
+pdfplumber
+fastapi
+uvicorn
+python-multipart
+langchain-chroma
